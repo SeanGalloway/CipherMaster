@@ -1,0 +1,6 @@
+[submodule "CipherMasterBackend"]
+	path = CipherMasterBackend
+	url = ./CipherMasterBackend/
+[submodule "cipher-master"]
+	path = cipher-master
+	url = ./cipher-master/
